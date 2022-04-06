@@ -1,0 +1,7 @@
+{
+  "HELP_DESC": "Generiere einen demotivator",
+  "USAGE_EXAMPLE_1": "Generiere demotivator von einem zuf?lligen Bild und Nachrichten aus diesem Channel",
+  "USAGE_EXAMPLE_2": "Generiere demotivator von einem zuf?lligen Bild und Nachricht aus dem`#general` Channel",
+  "USAGE_EXAMPLE_3": "Generiere demotivator von **andre**'s avatar und Nachrichten aus dem `#general` Channel",
+  "USAGE_EXAMPLE_4": "Generiere demotivator von bereitgestellten Bild-Link und Nachrichten dieses Channels"
+}

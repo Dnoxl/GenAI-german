@@ -1,0 +1,5 @@
+{
+  "HELP_DESC": "Generiert einen dialog",
+  "USAGE_EXAMPLE_1": "Generiert einen dialog aus Nachrichten dieses Channels",
+  "USAGE_EXAMPLE_2": "Generiert dialog aus Nachrichten des Channels `#smth`"
+}

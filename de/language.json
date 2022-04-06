@@ -1,0 +1,5 @@
+{
+	"HELP_DESC": "Botsprache ändern",
+	"TITLE": "Sprachauswahl menü",
+    "SUCCESSFULL": "Serversprache erfolgreich geändert zu `%lang%`"
+}

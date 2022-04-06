@@ -1,0 +1,5 @@
+{
+	"HELP_DESC": "Schalte das entfernen von Links aus den Nachrichten um",
+	"DELETE": "Links in generierten Nachrichten wurden erfolgreich deaktiviert",
+    "NOT_DELETE": "Links in generierten Nachrichten wurde erfolgreich aktiviert"
+}

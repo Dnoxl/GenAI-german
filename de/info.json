@@ -1,0 +1,13 @@
+{
+  "HELP_DESC": "Zeigt Informationen ?ber gespeicherte Daten",
+  "MSG": "informationen ?ber alle gespeicherte Nachrichten f?r Channel `%channel%`",
+  "READING_ENABLED": "Nachrichten lesen **enabled**",
+  "READING_DISABLED": "Nachrichten Lesen **disabled**",
+  "MESSAGES": "**%messages%** Nachrichten",
+  "IMAGES": "**%images%** Bilder",
+  "AUTOGEN_INTERVAL": "**%interval%** Nachrichten vor der Autogenerierung",
+  "AUTOGEN_DISABLED": "Auto-generierung ist **disabled**",
+  "USAGE_EXAMPLE_1": "Get information about stored messages for this channel",
+  "USAGE_EXAMPLE_2": "Get information about stored messages for `#shtpost` channel",
+  "FAILED": "failed to fetch data about messages"
+}

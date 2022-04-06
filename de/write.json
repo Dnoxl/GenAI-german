@@ -1,0 +1,11 @@
+{
+  "HELP_DESC": "Schreibe string für Channel in die database",
+  "SUCCESS": "Deine Nachricht wurde erfolreich in die database gespeichert und diesem Channel hinzugefügtl",
+  "FAIL": "Speichern der Nachricht ist fehlgeschlagen",
+  "READ": "Nachrichten lesen ist bereits aktiviert für diesen Channel, speichern wurde abgebrochen",
+  "USAGE_EXAMPLE_1": "Füge \"hello\" Nachricht zur Historie der Nachrichten dieses Channels hinzu",
+  "USAGE_EXAMPLE_2": "Get content from given paste and save it to history of this channel messages",
+  "PASTE_FAIL": "failed to get content from given paste",
+  "PASTE_LARGE": "given text is too large (limit is %limit% characters)",
+  "PASTE_COOLDOWN": "you can add messages from paste again on %date%"
+}

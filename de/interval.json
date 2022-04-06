@@ -1,0 +1,11 @@
+{
+    "HELP_DESC": "Intervall der autogenerierten Nachrichten ?ndern",
+    "PROMPT": "Schreibe die Intervall der Nachrichten aus der Autogeneration dieses Channels. Erlaubte Argumente:",
+    "FIXED": "Nummer von %min% bis %max% f?r einen fixierten Intervall (in Nachrichten)",
+    "RANDOM": "`random` f?r Zuf?lligen Intervall",
+    "DISABLE": "`off` um die Autogeneration zu deaktivieren",
+    "DISABLED": "Autogeneration erfolgreich deaktiviert in diesem Channel",
+    "SUCCESSFULL": "Intervall der Autogenerierten Nachrichten in diesem Channel erfolgreich ge?ndert zu `%interval%`",
+    "RANDOM_ENABLED": "Zuf?lliges Intervall f?r Autogeneration erfolgreich aktiviert",
+    "RANDOM_ALREADY_ENABLED": "Zuf?lliges Interval ist bereits akitviert f?r diesen Channel"
+}

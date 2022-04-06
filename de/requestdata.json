@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Fordere gespeicherte Guild Daten an. Nur der Guild Besitzer kann diese Daten bekommen. Die Daten können nur einmal alle 15 Tage abgerufen werden.",
+  "COOLDOWN": "Du kannst daten erst wieder bekommen am %date%",
+  "EMAIL_PROVIDE": "Stell eine email bereit um Server Information zu senden",
+  "CONFIRM": "Willst du wirklich die gespeicherten Daten an die Email **`%email%`** senden? Du kannst Daten erst wieder in %days% Tagen bekommen.\n\nType *`yes`* for confirmation or *`no`* to refuse.",
+  "SENT": "Wir haben deine Anfrage gespeichert deine Server Daten zu senden an `%email%`. Bald wirst du eine Nachricht mit den Daten erhalten.",
+  "REFUSED": "Du hast das senden der Daten abeglehnt."
+}

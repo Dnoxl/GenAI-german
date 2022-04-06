@@ -1,0 +1,6 @@
+{
+  "CLIENT_PREFIX": "Mein Prefix ist %prefix%",
+  "SERVER_PREFIX": "Konfigurierter zusätzlicher Prefix ist %server_prefix%",
+  "CAN_READ": "Ich **kann** hier Nachrichten lesen",
+  "CANT_READ": "Ich kann hier **nicht** Nachrichten lesen"
+} 

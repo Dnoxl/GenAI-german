@@ -1,0 +1,27 @@
+{
+	"HELP_DESC": "Informationen über GenAi Premium",
+	"INFO_TITLE": "Informationen Über GenAi Premium",
+	"USAGE_EXAMPLE_1": "Zeige Informationen über das Abonnement",
+	"USAGE_EXAMPLE_2": "Zeige Liste von Servern, auf denen du Vorteile aktiviert hast",
+	"USAGE_EXAMPLE_3": "Aktiviert (oder deaktiviert) Vorteile für diesen Server",
+	"INFO_DESCRIPTION": "Du kannsr die Entwickler von GenAi unterstützen und einige Vorteile erhalten in dem du das GenAi Premium Abonnement kaufst.",
+	"INFO_DESCRIPTION_PURCHASE": "DU kannst es kaufen mit **[Patreon](https://genai.bot/premium)**.",
+	"INFO_PERKS_TITLE": "Vorteile für Abonnenten",
+	"INFO_PERKS_LIST": [
+		"Aktiviere Vorteile für **%limit% Server**",
+		"Reduziert Channel Cooldown für generierungs BEfehle um **40%**",
+		"Die Einstellung des fixirten Autogenerierungs Interval wird verfügbar sein **ab 5 Nachrichten** `%prefix%interval <5-50>`",
+		"Alle Generierungs Typ Befehle **werden in der Autogenerierung verfügbar sein** `%prefix%autogen`",
+		"Will be available **addition to sentences** `%prefix%generate <text that you want to continue>)`",
+		"Anzahl an Filtern pro Channel **wird erhöht auf bis zu 10 Filter**"
+	],
+	"GUILDS_NO_PREMIUM": "Du hast kein Premium Abonnement, du kannst links zum erwerben finden in `%prefix%premium`",
+	"GUILDS_NO_ITEMS": "Du hast keine Server mit aktiven Vorteile.",
+	"GUILDS_LIST_TITLE": "Liste von Servern auf denen Premiumvorteile aktiv sind",
+	"TOGGLE_NO_PREMIUM": "Du hast kein Premium Abonnement, du kannst links zum erwerben eines Abonnement finden in `%prefix%premium`",
+	"TOGGLE_ANOTHER_ACTIVATED": "Premium Vorteile sind für diesen Server bereits von einem anderen Nutzer aktiviert worden.",
+	"TOGGLE_LIMIT": "Du kannst nicht mehr als `%limit%` Server zu deinem Abonnement hinzufügen.",
+	"TOGGLE_UNKNOWN_ERROR": "Umschalten dieses Servers auf Premium ist fehlgeschlagen.",
+	"TOGGLE_ENABLED": "Du hast erfolgreich Premium Vorteile für diesen Server aktiviert.",
+	"TOGGLE_DISABLED": "Du hast erfolgreich Premium Vorteile für diesen Server deaktiviert."
+}

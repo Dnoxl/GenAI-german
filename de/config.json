@@ -1,0 +1,17 @@
+{
+	"HELP_DESC": "Channel Einstellungen Konfigurieren ",
+	"LIST": "Liste der Konfigurierten Einstellungen :\n%list%",
+	"ENABLED": "aktiviert",
+	"DISABLED": "deaktiviert",
+	"NOT_FOUND_OPTION": "Es wurde keine solche Einstellung gefunden. Siehe Liste der Optionen in `%prefix%config`.",
+	"UPDATED": "Option %option% erfolgreich aktualisiert.",
+	"FAILED": "Aktualisierung von %option% fehlgeschlagen.",
+	"LIST_TIP": "Du kannst den status von Optionen mit `%prefix%config <Option> [+|-]` ?ndern",
+	"OPTIONS": {
+		"LINKS": "Links aus Nachrichten entfernen",
+		"READ": "Nachrichten automatisch speichern",
+		"MENTIONS": "Erw?hnungen(mentions) in Nachrichten deaktivieren",
+		"USE_AVATARS": "Den Avatar der Nutzer als Quelle in Bild-Befehlen nutzen",
+		"MENTION_GENERATE": "Nachrichten beim Erw?hnen des Bots generieren"
+	}
+}

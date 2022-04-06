@@ -1,0 +1,7 @@
+{
+  "HELP_DESC": "Generiert einen Text mit der Impact Schriftart auf einem zuf?lligen Bild",
+  "USAGE_EXAMPLE_1": "Generiert Impact Bild aus einem Zuf?lligen Bild und Nachricht aus diesem Channel",
+  "USAGE_EXAMPLE_2": "Generiert Impact Image aus einem zuf?lligen Bild und Nachricht aus dem `#general` Channel",
+  "USAGE_EXAMPLE_3": "Generiert Imlact Image aus **andre**'s avatar und Nachrichten des `#memez` channel",
+  "USAGE_EXAMPLE_4": "Generiert Impact image aus bereitgestelltem Bild-Link und Nachrichten aus diesem Channel"
+}

@@ -1,0 +1,7 @@
+{
+  "HELP_DESC": "Generiert einen Text mit Lobster Font auf einem zufälligen Bild",
+  "USAGE_EXAMPLE_1": "Generiert Lobster Bild aus einem zufälligen Bild und Nachricht aus diesem Channel",
+  "USAGE_EXAMPLE_2": "Generiert Lobster Bild aus einem zufälligen Bild aus dem `#general` Channel",
+  "USAGE_EXAMPLE_3": "Generiert Lobster Bild aus **andre**'s Avatar und Nachrichten aus dem `#shtpost` Channel",
+  "USAGE_EXAMPLE_4": "Generiert Lobster Bild aus bereitgestelltem Bildlink und Nachrichten aus diesem Channel"
+}

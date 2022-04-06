@@ -1,0 +1,5 @@
+{
+	"HELP_DESC": "Schalte das entfernen von Erwähnungen in Nachrichten in diesem Channel um",
+	"DISABLED": "Erwähnung in generierten Nachrichten wurde erfolgreich deaktiviert",
+    "ENABLED": "Erwähnung in generierten Nachrichten wurde erfolgreich aktiviert"
+}

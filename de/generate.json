@@ -1,0 +1,6 @@
+{
+  "HELP_DESC": "Generiert einen string",
+  "USAGE_EXAMPLE_1": "Generiert string aus Nachricht dieses Channels",
+  "USAGE_EXAMPLE_2": "Generiert string aus Nachrichten des Channels `#yeah`",
+  "USAGE_EXAMPLE_3": "Generiert string der mit \"hello\" startet (Premium)"
+}

@@ -1,0 +1,71 @@
+{
+  "FULL_NAME": "Deutsch",
+  "ERROR": "Ein Fehler ist aufgetreten",
+  "EXAMPLE": "Benutzungs Beispiel",
+  "PREMIUM_MOTIVATE": "Du kannst Premium Vorteile erhalten f?r diese Gilde und die Entwicklung des Bots unterst?tzen indem du die Premium Mitgliedschaft kaufst. Mehr Details in `%prefix%boost`",
+  "CONSTANTS": {
+    "int": "number",
+    "string": "string",
+    "command": "command",
+    "channel": "channel",
+    "member": "member"
+  },
+  "errors": {
+    "NOT_ENOUGH": "nicht genug Daten zum lernen, aktiviere automatisches speichern der Nachrichten mit `%prefix%read`",
+    "ON_GEN_COOLDOWN": "Ein Generierungs Befehl wurde k?rzlich in diesem Channel benutzt, versuche es bitte in %time% sekunden noch einmal.",
+    "ACCESS_ERROR": "Du kannst keine Nachrichten generieren von `#%name%`",
+    "FAILED_IMAGE": "Bild Generierung ist fehlgeschlagen .",
+    "FAILED_MESSAGE": "Nachrichten Generierung ist fehlgeschlagen.",
+    "PREMIUM_ONLY": " dieser Befehl kann nur auf servern mit Premium status benutzt werden.",
+    "FULL_DESC": "Problem Beschreibung",
+    "CORRECT_USAGE": "Die korrekte Benutzunv ist: `%usage%`",
+    "INSUFFICIENT_ARGS": "Unzureichende Argumente",
+    "ON_COOLDOWN": "Bitte Warten! (%time% Sekunden verbleibend)",
+    "NO_PERMS": "Du brauchst folgende Berechtigung um den Befehl ausf?hren: `%perms%`",
+    "NO_PERMS_BOT": "Ich ben?tige folgende Berechtigung um diesen Befehl auszuf?hren `%perms%`",
+    "NO_PMS": "Dieser Befehl kann nicht in den PMs benutzt werden.",
+    "INVALID_RESOLVER_TYPE": "Falscher resolver typ",
+    "RESOLVER_TRY_AGAIN": "Eine falsche Antwort wurde gegeben, bitte versuche es erneut.",
+    "member": {
+      "NOT_FOUND": "Dieser Nutzer konnte nicht gefunden werden"
+    },
+    "channel": {
+      "NOT_FOUND": "Dieser Channel konnte nicht gefunden werden"
+    },
+    "command": {
+      "NOT_FOUND": "Dieser Befehle konnte nicht gefunden werden"
+    },
+    "string": {
+      "NOT_STRING": "%arg% muss ein string sein",
+      "MAX": "%arg% l?nge kann nicht gr?sser sein als %max%",
+      "MIN": "%arg% l?nge kann nicht kleiner sein als %min%",
+      "ONE_OF": "%arg% muss einer der folgenden sein: %choices%"
+    },
+    "list": {
+      "MAX": "%arg% l?nge kann nicht mehr als %max% Items enthalten",
+      "MIN": "%arg% l?nge kann nicht weniger als %min% Items enthalten",
+      "MAX_LENGTH": "%arg% kann keine Item l?nger als %maxLength% enthalten",
+      "MIN_LENGTH": "%arg% kann keine Items l?nger als %minLength% enthalten",
+      "DUPES": "%arg% kann keine Doppelten Werte enthalten"
+    },
+    "int": {
+      "NOT_INT": "%arg% Muss eine Nummer sein",
+      "MAX": "%arg% Muss weniger oder gleich sein wie %max%",
+      "MIN": "%arg% Muss mehr odeg gleich sein wie %min%"
+    }
+  },
+  "menus": {
+    "EXIT": "Tippe `%cancel%` um das Men? zu verlassen.",
+    "EXITED": "Du hast das Men? verlassen .",
+    "SELECTION": "Auswahl Men?",
+    "ERROR": "Unbekannter Error",
+    "INPUT": "Schreibe die Nummer deiner Wahl in den Chat oder `%cancel%` um abzubrechen.",
+    "NEXT_PAGE": "N?chste Seite",
+    "PREV_PAGE": "vorherige Seite"
+  },
+  "collector": {
+    "timeout": "Aufgrund von inaktivit?t wurde das Men? geschlossen",
+    "max": "%max% Versuche ?berschritten",
+    "maxMatches": "%maxMatches% Matches ?berschritten"
+  }
+}

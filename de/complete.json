@@ -1,0 +1,5 @@
+{
+	"HELP_DESC": "Vervollst?ndigt deine Nachricht mit allen gespeicherten Channel Nachrichten",
+	"USAGE_EXAMPLE_1": "Vervollst?ndigt `bruh` aus Nachrichten dieses Channels",
+	"USAGE_EXAMPLE_2": "Vervollst?ndigt `hello` aus Nachrichten aus dem `#copy-paste` Channel"
+}

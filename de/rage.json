@@ -1,0 +1,7 @@
+{
+  "HELP_DESC": "Generiert einen Rage Comic",
+  "USAGE_EXAMPLE_1": "Generiert einen Rage Comic aus Nachrichten dieses Channels",
+  "USAGE_EXAMPLE_2": "Generiert einen Rage Comic aus Nachrichten des `#debate` Channels",
+  "USAGE_EXAMPLE_3": "Generiert einen \"large\" Rage Comic (4 Teile)",
+  "USAGE_EXAMPLE_4": "Generiert einen \"small\" Rage Comic (1 Teil)"
+}

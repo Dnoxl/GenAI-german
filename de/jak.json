@@ -1,0 +1,6 @@
+{
+  "HELP_DESC": "Jacque Fresco's Zitat",
+  "NAME": "Jacque Fresco",
+  "USAGE_EXAMPLE_1": "Generiert Jacque's Zitat aus Nachrichten dieses Channels",
+  "USAGE_EXAMPLE_2": "Generiert Jacque's Zitat aus Nachrichten des `#general` channel"
+}

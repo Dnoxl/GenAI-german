@@ -1,0 +1,8 @@
+{
+	"HELP_DESC": "Loschen der Channel Nachrichten aus der database",
+	"PROMPT": "Bist du sicher dass du alle gespeicherten Nachrichten löschen willst?",
+    "PROMPT_PATTERN": "Bist du sicher dass du alle gespeicherten Nachrichten die deinen Text enthalten löschen möchtest?",
+    "PROMPT_FOOTER": "Enter `%confirm%` um das Löschen zu bestätigen oder `%cancel%` um abzubrechen.",
+    "WIPED": "Alle gespeicherten Nachrichten wurden erfolreich gelöscht.",
+    "WIPED_PATTERN": "Alle gespeicherten Nachrichten die bereitgestellten Text enthalten wurden erfolreich gelöscht."
+}

@@ -1,0 +1,18 @@
+{
+	"HELP_DESC": "Konfiguriere Channel",
+	"CONFIGURING_BY_ANOTHER": "Dieser Channel wird gerade von einem andren Benutzer konfigueriert.",
+	"READ_ENABLE": "Das Lesen von Nachrichten in diesem Channel wurde erfolgreich aktiviert",
+	"READ_SKIP": "Dieser Channel hat das Lesen von Nachrichten bereits aktiviert, überspringen",
+	"INTERVAL_PROMPT": "Welches Intervall (in Nachrichten) der Autogenerierung würdest du gerne einstellen?\n\tType \"random\", \"skip\" oder Nummer von %min% bis %max%",
+	"INTERVAL_RANDOM": "Autogenerierungs Intervall ist jetzt zufällig",
+	"INTERVAL_SKIP": "Du hast überspringen ausgewählt, vorherige Werte erhalten",
+	"INTERVAL_SET": "Autogenerierungs Intervall erfolgreich eingestellt auf %interval% Nachrichten",
+	"MENTIONS_PROMPT": "Möchtest du erwähnungen in generierten Nachrichten deaktivieren?\n\tType %yes% or %no%",
+	"MENTIONS_REMOVE": "Erwähnungen werden deaktiviert in generierten Nachrichten.\n\t`Du kannst diese Option erneut Konfigurieren mit %prefix%togglementions`",
+	"MENTIONS_KEEP": "Erwähnungen werden nicht entfernt in generierten Nachrichten.\n\t`Du kannst diese Option erneut Konfigurieren mit %prefix%togglementions`",
+	"LINKS_PROMPT": "Möchtest du Links mit Platzhaltern ersetzen in generierten Nachrichten?\n\tType %yes% or %no%",
+	"LINKS_REMOVE": "Links werden mit Platzhaltern ersetzt in generierten Nachrichten.\n\t`Du kannst diese Option erneut konfigurieren mit %prefix%togglelinks`",
+	"LINKS_KEEP": "Links werden nicht mit Platzhaltern ersetzt in generierten Nachichten.\n\t`Du kannst diese Option erneut Konfigurieren mit %prefix%togglelinks`",
+	"AUTOGEN_TIP": "Ausserdem kannst du autogenerierungs typen konfigurieren mit `%prefix%autogen`",
+	"SUCCESS": "Du hast erfolreich diesen Channel konfiguriert"
+}

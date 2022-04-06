@@ -1,0 +1,25 @@
+{
+	"HELP_DESC": "Einstellen der Filterung von gespeichterten Nachrichten",
+	"NOT_CONFIGURED": "Du hast noch keine Filter hinzugef?gt. Du kannst sie mit `%prefix%filter add` hinzuf?gen.",
+	"LIST_OF_FILTERS": "Liste mit`%channel%` filtern:",
+	"TYPES": {
+		"links": "links Ignorieren",
+		"include": "Ignoriere Nachrichten die [text] *beinhalten*",
+		"start": "Ignoriere Nachrichten die mit [text] *starten*",
+		"end": "Ignoriere Nachrichten die *enden* mit [text]",
+		"regexp": "Ignore messages that *match the regular expression* (js)",
+		"user": "Ignoriere Nachrichten von [user]",
+		"role": "Ignoriere Nachrichten von [role]"
+	},
+	"FILTERS_LIMIT": "Du kannst nicht mehr als %limit% Filter pro Channel hinzuf?gen.",
+	"TYPE_TITLE": "Filter Typ w?hlen",
+	"OPTION_PROMPT": "Schreibe die Filter Konditionen",
+	"ALREADY_EXISTS": "Es gibt bereits einen ?hnlichen Filter f?r diesen Channel.",
+	"INVALID_REGEXP": "invalid regular expression.",
+	"ADD_SUCCESS": "Du hast erfolgreich einen Filter hinzugef?gt.",
+	"REMOVE_TITLE": "Filter Entfernen",
+	"REMOVE_SUCCESS": "Du hast erfolgreich einen Filter entfernt.",
+	"LIST_TIP": "Du kannst Filter entfernen in dem du schreibst `%prefix%filters [filter nummer in der Liste]`",
+	"USAGE_HELP": "[[filter number] | add [type] [option] | types]",
+	"LIST_OF_TYPES": "Liste der Filter Typen:"
+}

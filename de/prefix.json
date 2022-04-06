@@ -1,0 +1,6 @@
+{
+    "HELP_DESC": "Bots zusätzlichen Prefix ändern",
+    "PROMPT": "Schreib deinen neuen Prefix. Maximale Länge des Prefix ist 4 Symbole",
+    "SUCCESSFULL": "Zweiter Prefix wurde erfolgreich eingestellt als `%prefix%`",
+    "FAIL": "Einstellen des zweiten Prefix fehlgeschlagen"
+} 

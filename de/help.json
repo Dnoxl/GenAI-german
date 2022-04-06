@@ -1,0 +1,12 @@
+{
+  "HELP_DESC": "Zeigt Befehls Liste",
+  "DESCRIPTION": "Beschreibung",
+  "NOT_FOUND": "Nicht Gefunden",
+  "GROUP": "Gruppe",
+  "ALIASES": "Aliases",
+  "USAGE": "Nutzung",
+  "CMD_LIST": "Befehls Liste",
+  "EXAMPLES": "Beispiele f?r Nutzung",
+  "USAGE_EXAMPLE_1": "Zeigt die Vollst?ndige Befehls Liste",
+  "USAGE_EXAMPLE_2": "Zeigt detaillierte Information ?ber den **demotivator** Befehl"
+}

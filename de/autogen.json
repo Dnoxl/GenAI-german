@@ -1,0 +1,21 @@
+{
+	"HELP_DESC": "Generierungstypen ?ndern (nur Premium)",
+	"TYPES": {
+		"string": "String",
+		"dialog": "Dialog",
+		"bugurt": "Bugurt",
+		"rage": "Rage comics",
+		"demotivator": "Demotivator",
+		"jacque": "Jacque Fresco's Zitat",
+		"lobster": "Text mit Lobster Schriftart auf dem Bild",
+		"impact": "Text mit Impact Schriftart auf dem Bild",
+		"bruh": "Text auf Wei?em Hintergrund with Bild darunter ",
+		"all": "Alle Typen aktivieren",
+		"default": "Standard Typ einstellen"
+	},
+	"ENABLED": "Aktiviert",
+	"DISABLED": "Deaktiviert",
+	"TITLE": "Typen Konfiguration",
+	"UPDATED": "Liste der Generierungstypen erfolgreich aktualisiert",
+	"EMPTY_BITFIELD": "Mindestens ein Typ der Generierung muss aktiviert sein."
+}
